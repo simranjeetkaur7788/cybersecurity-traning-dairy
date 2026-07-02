@@ -33,5 +33,20 @@ commands like :
 ---**missing person (activity)
 ---use OSINT skill to help police to track down a missing person.
 
+**##day5-----(2-7-2026)##**
+---NETWORKING---
+---what is networking.
+---how internet works.
+---identify device on internet.
+---ping and connectivity testing
+---lan
+---**introduction of LAN**---
+---LAN topologies.
+---subnetting basics.
+---ARP (Address resolution protocol)
+---DHCP(dynamic host configuration protocol)
+---OSI model
+
+
 
 
