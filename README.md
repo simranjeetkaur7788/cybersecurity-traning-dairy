@@ -47,6 +47,21 @@ commands like :
 ---DHCP(dynamic host configuration protocol)
 ---OSI model
 
+**##day6-----(3-7-2026)##**
+----google docking---
+---learn about crawlers.
+---search engine optimization.
+---keywords: allow ,disallow,user-agent,sitemap.
+---namp---
+---Nmap switches.
+---syn scan
+---TCP connect scans.
+---UDP scans.
+---NULL,FIN and Xmas
+---searching for scripts.
+
+
+
 
 
 
