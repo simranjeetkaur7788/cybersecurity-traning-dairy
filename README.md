@@ -60,6 +60,19 @@ commands like :
 ---NULL,FIN and Xmas
 ---searching for scripts.
 
+***##day7----(4-7-2026)##**
+----nmap---
+----TCP connect scan--
+----syn scan
+---udp scan--
+---firewall evasion--
+----tcp udp ports
+----tcp flag--
+---tcp connect scan--
+---tcp syn scan---
+---udp scan--
+
+
 
 
 
