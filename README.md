@@ -72,6 +72,29 @@ commands like :
 ---tcp syn scan---
 ---udp scan--
 
+**##day8-----(6-7-2026)##**
+----introduction of hydra
+---find tcp
+----cryptography for dummies
+----symmetric and assymetric
+----hash
+##**day 9-----(7-7-26)**##
+----encoding and decoding
+----basic cryptography
+----convert plaintext to cyphertext
+##**day10----(8-7-26)**##
+---cryptography concepts
+---hiding information(symmetric)
+---share keys safely (assymetric encryption)
+##**day11----(9-7-26)**
+---crack the hash using kali linux commands
+----find passwords using hash
+##**day12---(10-7-26)**
+---basics of python
+---solve python codes .
+
+
+
 
 
 
