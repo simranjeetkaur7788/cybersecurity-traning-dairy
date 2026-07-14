@@ -91,7 +91,15 @@ commands like :
 ----find passwords using hash
 ##**day12---(10-7-26)**
 ---basics of python
----solve python codes .
+---solve python codes
+##**day13----(13-7-26)**
+----python codes lists
+----operators
+##**day14----(14-7-26)**
+---python codes about tuple 
+---sets
+--dicrionary
+
 
 
 
