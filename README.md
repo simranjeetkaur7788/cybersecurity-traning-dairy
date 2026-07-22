@@ -116,6 +116,12 @@ commands like :
 ##**day21---(20-7-2026)**
 --file handling
 --doing encryption in python to convert words into hash  function.
+##**day22---(21-7-2026)**
+--comparing hash .
+--variable store in file.
+--store multiple hash and then compare.
+##**day23--(22-7-2026)**
+
 
 
 
