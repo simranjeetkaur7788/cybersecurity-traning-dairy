@@ -121,7 +121,13 @@ commands like :
 --variable store in file.
 --store multiple hash and then compare.
 ##**day23--(22-7-2026)**
-
+---phising basics
+##**day 24--(23-7-2026)**
+---project work.
+##**day 25--(24-7-2026)**
+---project work
+##**day 26--(25-7-2026)**
+---project completed
 
 
 
