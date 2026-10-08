@@ -17,7 +17,7 @@
 **excute the following commands on Attackbox**
 1 whois--find domain registration details.
 2.nslookup--qery DNS record
-3. dig--retrieve detailed DNS information.
+3.dig--retrieve detailed DNS information.
 3.DNSDumpsters.
 4.shodan.io 
 **##day4----------(29-7-2026)**
@@ -26,7 +26,6 @@ commands like :
 --ping: measure response time.
 --telnet: test connectivity to remote services and open ports.
 --Netcat: connect to TCP/UDP ports and perform network testing.
-
 **##day5------(30-7-2026)**
 ---**Geolocating images using visual clues.**
 ---Identifying landmarks, buildings, roads, and signs.
@@ -103,12 +102,10 @@ commands like :
 --dictionary
 ##**day17---(15-7-26)**
 ---conditonal statements
-
 ##**day18---(16-7-2026)**
 ----loops(for and while)
 ##**day19---(17-7-2026)**
 --module 1 (import.os)
-
 ##**day20---(18-7-2026)**
 ---module 2 (import.re)
 ---re-search ,re-replace,re-findall
@@ -123,13 +120,41 @@ commands like :
 ##**day23--(22-7-2026)**
 ---phising basics
 ##**day 24--(23-7-2026)**
----project work.
+---encryption practice.
 ##**day 25--(24-7-2026)**
----project work
+---decryption practice.
 ##**day 26--(25-7-2026)**
----project completed
-
-
+---project work.
+##**day 27--(27-7-2026)**
+---project testing  and checking all modules.
+---checking errors and improving codes.
+##**day28--(28-7-2026)**
+---testing password strenghth checker.
+---testing different passwords and checking results.
+##**day29--(29-7-2026)**
+---testing file integrity checker.
+---compare original and modified files using hashes.
+###**day30---(30-7-2026)**
+---testing network scanner.
+---understanding IP addresses, ports and basic network scanning.
+###**day31---(31-7-2026)**
+---testing OSINT toolkit.
+---practicing basic information gathering and verification.
+###**day32---(1-8-2026)**
+---testing encryption and decryption module.
+---understanding secure storage and protection of data.
+###**day33---(3-8-2026)**
+---project documentation.
+---preparing project report and explaining the working of each module.
+###**day34---(4-8-2026)**
+---review of cybersecurity concepts learned during training.
+---revision of OSINT, phishing, encryption, hashing and network security.
+###**day35---(5-8-2026)**
+---project presentation preparation.
+---practicing explanation of the project modules and their working.
+###**day36---(6-8-2026)**
+---final review of training work.
+---final discussion and completion of training.
 
 
 
